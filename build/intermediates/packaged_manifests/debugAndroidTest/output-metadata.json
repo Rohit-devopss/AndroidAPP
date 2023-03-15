@@ -1,18 +1,16 @@
 {
-  "version": 3,
+  "version": 2,
   "artifactType": {
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.hellowolrd.app.test",
+  "applicationId": "com.example.myloginapp.test",
   "variantName": "debugAndroidTest",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
-      "attributes": [],
       "outputFile": "AndroidManifest.xml"
     }
-  ],
-  "elementType": "File"
+  ]
 }

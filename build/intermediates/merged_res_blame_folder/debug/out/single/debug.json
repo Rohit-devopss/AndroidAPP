@@ -1,98 +1,86 @@
 [
     {
-        "merged": "com.hellowolrd.app-merged_res-25:/drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "com.hellowolrd.app-pngs-20:/drawable-ldpi/ic_launcher_background.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.hellowolrd.app-merged_res-25:/mipmap-anydpi-v33_ic_launcher.xml.flat",
-        "source": "com.hellowolrd.app-main-27:/mipmap-anydpi-v33/ic_launcher.xml"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.hellowolrd.app-merged_res-25:/xml_backup_rules.xml.flat",
-        "source": "com.hellowolrd.app-main-27:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.hellowolrd.app-merged_res-25:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.hellowolrd.app-main-27:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.hellowolrd.app-merged_res-25:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.hellowolrd.app-main-27:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_google.png.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\src\\main\\res\\drawable-v24\\google.png"
     },
     {
-        "merged": "com.hellowolrd.app-merged_res-25:/drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "com.hellowolrd.app-pngs-20:/drawable-xxhdpi/ic_launcher_background.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\src\\main\\res\\drawable\\ic_baseline_info_24.xml"
     },
     {
-        "merged": "com.hellowolrd.app-merged_res-25:/xml_data_extraction_rules.xml.flat",
-        "source": "com.hellowolrd.app-main-27:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.hellowolrd.app-merged_res-25:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.hellowolrd.app-pngs-20:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fb.png.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\src\\main\\res\\drawable-v24\\fb.png"
     },
     {
-        "merged": "com.hellowolrd.app-merged_res-25:/drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "com.hellowolrd.app-pngs-20:/drawable-xxxhdpi/ic_launcher_background.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.hellowolrd.app-merged_res-25:/layout_activity_main.xml.flat",
-        "source": "com.hellowolrd.app-main-27:/layout/activity_main.xml"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\src\\main\\res\\drawable\\ic_baseline_person_outline_24.xml"
     },
     {
-        "merged": "com.hellowolrd.app-merged_res-25:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.hellowolrd.app-main-27:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.hellowolrd.app-merged_res-25:/drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "com.hellowolrd.app-pngs-20:/drawable-xhdpi/ic_launcher_background.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background.png.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\src\\main\\res\\drawable-v24\\background.png"
     },
     {
-        "merged": "com.hellowolrd.app-merged_res-25:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.hellowolrd.app-main-27:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.hellowolrd.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.hellowolrd.app-main-27:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_twitter.png.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\src\\main\\res\\drawable-v24\\twitter.png"
     },
     {
-        "merged": "com.hellowolrd.app-merged_res-25:/drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "com.hellowolrd.app-pngs-20:/drawable-mdpi/ic_launcher_background.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.hellowolrd.app-merged_res-25:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.hellowolrd.app-main-27:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.hellowolrd.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.hellowolrd.app-main-27:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.hellowolrd.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.hellowolrd.app-main-27:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.hellowolrd.app-merged_res-25:/drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "com.hellowolrd.app-pngs-20:/drawable-hdpi/ic_launcher_background.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.hellowolrd.app-merged_res-25:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.hellowolrd.app-main-27:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.hellowolrd.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.hellowolrd.app-main-27:/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
-        "merged": "com.hellowolrd.app-merged_res-25:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.hellowolrd.app-main-27:/mipmap-xxhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.hellowolrd.app-merged_res-25:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "com.hellowolrd.app-pngs-20:/drawable-anydpi-v21/ic_launcher_background.xml"
-    },
-    {
-        "merged": "com.hellowolrd.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.hellowolrd.app-main-27:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyLoginApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     }
 ]

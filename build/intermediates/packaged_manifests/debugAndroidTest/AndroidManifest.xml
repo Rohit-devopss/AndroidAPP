@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.hellowolrd.app.test" >
+    package="com.example.myloginapp.test" >
 
     <uses-sdk
-        android:minSdkVersion="19"
-        android:targetSdkVersion="33" />
+        android:minSdkVersion="22"
+        android:targetSdkVersion="30" />
 
     <instrumentation
         android:name="androidx.test.runner.AndroidJUnitRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.hellowolrd.app"
-        android:targetPackage="com.hellowolrd.app" />
+        android:label="Tests for com.example.myloginapp"
+        android:targetPackage="com.example.myloginapp" />
 
     <uses-permission android:name="android.permission.REORDER_TASKS" />
 

@@ -1,1 +1,1 @@
-com.hellowolrd.app.test
+com.example.myloginapp.test
