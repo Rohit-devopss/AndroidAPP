@@ -1,0 +1,4 @@
+#Wed Mar 15 13:00:02 UTC 2023
+base.0=C\:\\Users\\Administrator\\AndroidStudioProjects\\Hellowolrd\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
