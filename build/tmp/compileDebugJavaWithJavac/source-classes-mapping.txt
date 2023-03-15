@@ -1,5 +1,0 @@
-com/example/myloginapp/BuildConfig.java
- com.example.myloginapp.BuildConfig
-com/example/myloginapp/MainActivity.java
- com.example.myloginapp.MainActivity
- com.example.myloginapp.MainActivity$1

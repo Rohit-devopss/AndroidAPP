@@ -1,4 +1,0 @@
-com/example/myloginapp/test/BuildConfig.java
- com.example.myloginapp.test.BuildConfig
-com/example/myloginapp/ExampleInstrumentedTest.java
- com.example.myloginapp.ExampleInstrumentedTest

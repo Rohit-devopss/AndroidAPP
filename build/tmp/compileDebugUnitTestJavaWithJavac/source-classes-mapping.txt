@@ -1,2 +1,0 @@
-com/example/myloginapp/ExampleUnitTest.java
- com.example.myloginapp.ExampleUnitTest
